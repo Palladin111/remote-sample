@@ -17,6 +17,6 @@
 ## Использование
 
 ```jawascript
-cosole.log('message');
+console.log('message');
 ```
 
